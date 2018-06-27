@@ -1,1 +1,1 @@
-web: cloud56-torrent
+web: cloud-torrent
