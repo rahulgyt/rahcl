@@ -1,7 +1,7 @@
 {
-	"name": "fileupload",
-	"website": "https://github.com/jpillora/cloud-torrent",
-	"repository": "https://github.com/jpillora/cloud-torrent",
+	"name": "rhcl",
+	"website": "https://github.com/t",
+	"repository": "https://github.com/",
 	"env": {
 		"TITLE": {
 			"description": "Optionally set the title of this instance (defaults to 'Cloud Torrent')",
